@@ -57,6 +57,7 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+    font-family: aclonica;
 }
 
 .container__imagem {
